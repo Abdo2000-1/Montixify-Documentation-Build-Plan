@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Montixify\\Montixify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1074D96E-8C5B-44D0-B651-2F4427953B4F}|Montixify.Desktop\\Montixify.Desktop.csproj|h:\\montixify\\montixify\\montixify.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1074D96E-8C5B-44D0-B651-2F4427953B4F}|Montixify.Desktop\\Montixify.Desktop.csproj|solutionrelative:montixify.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1074D96E-8C5B-44D0-B651-2F4427953B4F}|Montixify.Desktop\\Montixify.Desktop.csproj|h:\\montixify\\montixify\\montixify.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1074D96E-8C5B-44D0-B651-2F4427953B4F}|Montixify.Desktop\\Montixify.Desktop.csproj|solutionrelative:montixify.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\Montixify\\Montixify\\Montixify.Desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Montixify.Desktop\\MainWindow.xaml",
+              "ToolTip": "H:\\Montixify\\Montixify\\Montixify.Desktop\\MainWindow.xaml",
+              "RelativeToolTip": "Montixify.Desktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-29T20:18:26.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\Montixify\\Montixify\\Montixify.Desktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Montixify.Desktop\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\Montixify\\Montixify\\Montixify.Desktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Montixify.Desktop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T20:18:25.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
